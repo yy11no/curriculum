@@ -1,0 +1,18 @@
+h1{
+    color:#0000FF;
+    background-color: #ddd;
+    width: 500px;
+    height: 100px;
+}
+/* kこれはコメントです */
+p{
+    font-size: 10px;
+    font-family: "Anenir Next";
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.select{
+    color: red;
+}
