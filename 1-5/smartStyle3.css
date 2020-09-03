@@ -23,6 +23,11 @@
         margin-left: 10px;
     }
 
+    .center{
+        width: 400px;
+        height: 460px;
+    }
+
     .left{
         float: none;
         width: 200px;

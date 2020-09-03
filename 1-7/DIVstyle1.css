@@ -9,10 +9,15 @@
     background-color: #141f40;
 }
 
-.clear{
+.clearfix::after{
     content: '';
     display: block;
     clear: both;
+}
+
+.content{
+    width: 400px;
+    height: 250px;
 }
 
 .left{

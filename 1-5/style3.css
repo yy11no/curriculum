@@ -47,10 +47,15 @@
     margin-left: 110px;
 }
 
-.clearfix{
+.clearfix::after{
     content: '';
     display: block;
     clear: both;
+}
+
+.center{
+    width: 400px;
+    height: 250px;
 }
 
 .left{
@@ -102,7 +107,6 @@
 }
 
 .footer{
-    clear: left;
     width: 400px;
     height: 100px;
     background-color: #d98d30;

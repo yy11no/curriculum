@@ -26,6 +26,11 @@
     .header{
         width: 150px;
     }
+    .center{
+        float: none;
+        width: 150px;
+        height: 650px;
+    }
     .left{
         float: none;
         width: 150px;
@@ -38,7 +43,6 @@
         width: 150px;
     }
     .right3{
-        float: none;
         width: 150px;
     }
     .right4{
